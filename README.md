@@ -22,10 +22,10 @@ This was a project that we created for our computer science class in college. Th
   </li>
     <li>
 <p><b>The result should be the encrypted text.</b></p>
-    
+
   </li>
 
  </ul> 
 
-<p> <b>Nestor Garcia</b></p>
+## Nestor Garcia
 
