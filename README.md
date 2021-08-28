@@ -27,5 +27,5 @@ This was a project that we created for our computer science class in college. Th
 
  </ul> 
 
-<p> <b>Nestor c</b></p>
+<p> <b>Nesto c</b></p>
 
