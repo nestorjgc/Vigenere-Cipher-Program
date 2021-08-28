@@ -27,5 +27,5 @@ This was a project that we created for our computer science class in college. Th
 
  </ul> 
 
-<p> <b>Nsoc</b></p>
+<p> <b>Noc</b></p>
 
