@@ -27,5 +27,5 @@ This was a project that we created for our computer science class in college. Th
 
  </ul> 
 
-<p> <b>Nkkkkkkc</b></p>
+<p> <b>Nkkkkkc</b></p>
 
